@@ -1,25 +1,48 @@
-<!-- 🚀 README HTML & CSS Ultimate by GPT-5 -->
+<!-- ✨ Ultimate Elegant README - HTML & CSS Theme by kunss -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8E2DE2,100:4A00E0&text=🌐%20HTML%20%26%20CSS%20MASTERCLASS&fontAlignY=38&fontSize=45&fontColor=ffffff&desc=Desain%20Web%20Modern%20dan%20Responsif&descAlignY=60&descAlign=50" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=8E2DE2&center=true&vCenter=true&width=600&lines=💻+HTML+%2B+CSS+%3D+Karya+Keren!;🚀+Bangun+Website+Modern+dari+0!;✨+Belajar+dengan+Gaya+dan+Efek+Keren!">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=💻+HTML+%2B+CSS+Is+Not+Just+Code;🌈+It's+Digital+Art;🚀+Let's+Build+Beautiful+Websites!" alt="Typing SVG" />
 
 ---
 
-## 🎯 Tentang Proyek
+# 🩵 **The Beauty of HTML & CSS**
+> _Where logic meets art — creating experiences, not just pages._
 
-> “HTML itu struktur, CSS itu jiwa.”  
-> Bersama-sama, keduanya menciptakan **keindahan digital.**
-
-Repositori ini dibuat untuk membantu kamu memahami dan mempraktikkan dasar-dasar:
-- 🌈 HTML → membangun struktur halaman  
-- 🎨 CSS → mempercantik tampilan  
-- 💫 Animasi & efek → membuat web lebih hidup  
+</div>
 
 ---
 
-## 🧱 Struktur Folder
+## 🌸 Tentang Proyek
+Selamat datang di proyek **HTML & CSS Elegant Design** 🌿  
+Di sini kamu akan belajar bagaimana kode sederhana bisa berubah jadi **karya visual**  
+yang indah, hidup, dan punya jiwa desain modern.  
+
+> “Bukan cuma fungsi — tapi juga perasaan saat melihatnya.”
+
+---
+
+## 🎯 Tujuan Pembelajaran
+✨ Mengenal struktur & semantik HTML  
+🎨 Menguasai CSS modern (gradient, animasi, layout)  
+💫 Membuat tampilan *aesthetic, responsive,* dan *smooth*  
+🧠 Melatih logika desain + kepekaan warna  
+
+---
+
+## 🧱 Contoh Struktur HTML
+```html
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elegant Web</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="hero">
+      <h1>Welcome to the Elegant Web 🌈</h1>
+      <p>HTML dan CSS bukan hanya alat, tapi seni visual digital.</p>
+    </header>
+  </body>
+</html>
